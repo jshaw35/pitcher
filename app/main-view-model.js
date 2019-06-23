@@ -9,8 +9,8 @@ function getMessage(listen) {
 
 function getImage(listen) {
     if (listen) {
-        // return "https://media.giphy.com/media/3o6gDUfmjGOPlZRave/giphy.gif";
-        return "~/guy.jpeg";
+        return "https://media.giphy.com/media/3o6gDUfmjGOPlZRave/giphy.gif";
+        // return "~/guy.jpeg";
     }
     return "";
 }
